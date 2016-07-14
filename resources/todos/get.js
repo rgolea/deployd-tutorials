@@ -1,0 +1,1 @@
+this.total = this.qty * this.price;

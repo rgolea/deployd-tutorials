@@ -1,0 +1,1 @@
+this.lastModified = Date.now();
