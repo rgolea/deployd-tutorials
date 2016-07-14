@@ -25,12 +25,12 @@
 			"id": "price",
 			"order": 2
 		},
-		"purchased": {
-			"name": "purchased",
+		"completed": {
+			"name": "completed",
 			"type": "boolean",
 			"typeLabel": "boolean",
 			"required": false,
-			"id": "purchased",
+			"id": "completed",
 			"order": 3
 		},
 		"lastModified": {
@@ -48,6 +48,14 @@
 			"required": false,
 			"id": "created",
 			"order": 5
+		},
+		"creator": {
+			"name": "creator",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "creator",
+			"order": 6
 		}
 	}
 }

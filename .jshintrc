@@ -89,6 +89,12 @@
 
     // Custom Globals
     "globals"       : {
-      "angular": true
+      "angular": true,
+      "dpd": true,
+      "setResult": true,
+      "query": true,
+      "$addCallback": true,
+      "$finishCallback": true,
+      "cancel": true
     }        // additional predefined global variables
 }

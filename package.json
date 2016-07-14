@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "deployd": "^0.8.8",
-    "dpd-event-extension": "0.0.3"
+    "dpd-event": "0.0.2",
+    "dpd-event-extension": "0.0.3",
+    "underscore": "^1.8.3"
   }
 }
